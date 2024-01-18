@@ -1,0 +1,19 @@
+# Archivos generados por el sistema operativo
+Thumbs.db
+.DS_Store
+
+# Carpeta node_modules generada por Node.js
+node_modules/
+
+# Archivos de configuración específicos de IDEs
+.vscode/
+.idea/
+
+# Archivos de construcción y logs
+build/
+logs/
+
+# Entornos de desarrollo
+.env
+.env.local
+.env.*.local
